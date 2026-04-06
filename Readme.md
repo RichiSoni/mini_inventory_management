@@ -31,7 +31,7 @@ A simple Inventory Management System built with **vanilla PHP** and **MySQL**. S
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mini_inventory_management.git
+git clone https://github.com/RichiSoni/mini_inventory_management.git
 cd mini_inventory_management
 ```
 
